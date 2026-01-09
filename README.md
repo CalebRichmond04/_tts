@@ -1,6 +1,5 @@
-This code was fully made using VibeCoding with ChatGPT
-The porject is a repository for implementation of the code I generated with GPT to integrate with WLED and our LaunchBox application and Retroarch systems
-This codes final stage may be distributed to the LaunchBox community to use
+This code was fully created using VibeCoding with ChatGPT.
+The project is a repository for the implementation of the code I generated with GPT to integrate with WLED, our LaunchBox application, and RetroArch systems.
+The code’s final version may be distributed to the LaunchBox community for use.
 
-
-CURRENT CODE PROJECT IS IN THE "wled_presets.py"
+Current code project is in the wled_presets.py file.
