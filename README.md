@@ -3,4 +3,4 @@ The project is a repository for the implementation of the code I generated with 
 The code’s final version may be distributed to the LaunchBox community for use.
 
 Current code project is in the wled_presets.py file.
-ChatGPT Conversation: https://chatgpt.com/share/69606aee-d170-8011-83e6-1b5810780764
+ChatGPT Conversation: https://chatgpt.com/share/69614828-1d14-8011-8788-b4623767b6bc
