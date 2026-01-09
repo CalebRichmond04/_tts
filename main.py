@@ -3,14 +3,19 @@ import re
 from pathlib import Path
 import pyttsx3
 import threading
+import requests
 
-import wled_presets  # <-- NEW IMPORT
+import wled_presets
 
 # ============================================================================
 # CONFIGURATION - Edit these settings
 # ============================================================================
 
 CELEBRATION_DURATION = 5  # seconds
+
+# WLED fallback state (static red)
+WLED_IP = "192.168.1.124"
+STATIC_RED = [255, 0, 0]
 
 # TTS Settings
 TTS_VOICE_INDEX = 1
@@ -54,14 +59,32 @@ class AchievementAnnouncer:
             print(f"TTS Setup Error: {e}")
             self.tts_engine = None
 
+    def set_static_red(self):
+        payload = {
+            "on": True,
+            "seg": [{
+                "col": [STATIC_RED],
+                "fx": 0,
+                "sx": 128,
+                "ix": 128
+            }]
+        }
+
+        try:
+            requests.post(f"http://{WLED_IP}/json/state", json=payload, timeout=1)
+        except Exception as e:
+            if DEBUG_MODE:
+                print(f"Failed to set static red: {e}")
+
     def celebrate_achievement(self):
         wled_presets.start_preset("dual_chase_bounce")
         time.sleep(CELEBRATION_DURATION)
         wled_presets.stop_preset()
+        self.set_static_red()
 
     def announce(self, achievement_name):
         message = f"Achievement unlocked: {achievement_name}"
-        print(f"{message}")
+        print(message)
 
         wled_thread = threading.Thread(target=self.celebrate_achievement)
         wled_thread.daemon = True
