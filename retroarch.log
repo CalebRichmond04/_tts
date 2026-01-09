@@ -1,0 +1,668 @@
+[INFO] [Config] Saved config to "X:\Launchbox\Emulators\RetroArch\retroarch.cfg".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[DEBUG] Subsystem ID: 0
+Special game type: CBS ColecoVision
+  Ident: cv
+  ID: 1
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 1
+Special game type: Fairchild ChannelF
+  Ident: chf
+  ID: 15
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 2
+Special game type: MSX 1
+  Ident: msx
+  ID: 4
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 3
+Special game type: Nec PC-Engine
+  Ident: pce
+  ID: 5
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 4
+Special game type: Nec SuperGrafX
+  Ident: sgx
+  ID: 7
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 5
+Special game type: Nec TurboGrafx-16
+  Ident: tg16
+  ID: 9
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 6
+Special game type: Nintendo Entertainment System
+  Ident: nes
+  ID: 11
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 7
+Special game type: Nintendo Family Disk System
+  Ident: fds
+  ID: 12
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 8
+Special game type: Super Nintendo Entertainment System
+  Ident: snes
+  ID: 16
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 9
+Special game type: Sega GameGear
+  Ident: gg
+  ID: 2
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 10
+Special game type: Sega Master System
+  Ident: sms
+  ID: 8
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 11
+Special game type: Sega Megadrive
+  Ident: md
+  ID: 3
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 12
+Special game type: Sega SG-1000
+  Ident: sg1k
+  ID: 6
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 13
+Special game type: SNK Neo Geo Pocket
+  Ident: ngp
+  ID: 14
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 14
+Special game type: ZX Spectrum
+  Ident: spec
+  ID: 10
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 15
+Special game type: Neogeo CD
+  Ident: neocd
+  ID: 13
+  Content:
+[DEBUG]     Iso (required)
+[DEBUG] Subsystems: 16
+[INFO] [Core] Using content: "I:\LaunchBox\Emulators\MAME\roms\uopoko.zip".
+[INFO] [Core] Unloading core...
+[INFO] [Core] Unloading core symbols...
+[DEBUG] [Video] Average monitor Hz: 59.998800 Hz. (8.367 % frame time deviation, based on 2048 last samples).
+[INFO] RetroArch 1.22.1 (Git 9f9a984)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.22.1
+[INFO] Git: 9f9a984
+[INFO] Built: Nov 15 2025
+[INFO] =================================================
+[INFO] [Input] Found input driver: "dinput".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[DEBUG] Subsystem ID: 0
+Special game type: CBS ColecoVision
+  Ident: cv
+  ID: 1
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 1
+Special game type: Fairchild ChannelF
+  Ident: chf
+  ID: 15
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 2
+Special game type: MSX 1
+  Ident: msx
+  ID: 4
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 3
+Special game type: Nec PC-Engine
+  Ident: pce
+  ID: 5
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 4
+Special game type: Nec SuperGrafX
+  Ident: sgx
+  ID: 7
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 5
+Special game type: Nec TurboGrafx-16
+  Ident: tg16
+  ID: 9
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 6
+Special game type: Nintendo Entertainment System
+  Ident: nes
+  ID: 11
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 7
+Special game type: Nintendo Family Disk System
+  Ident: fds
+  ID: 12
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 8
+Special game type: Super Nintendo Entertainment System
+  Ident: snes
+  ID: 16
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 9
+Special game type: Sega GameGear
+  Ident: gg
+  ID: 2
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 10
+Special game type: Sega Master System
+  Ident: sms
+  ID: 8
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 11
+Special game type: Sega Megadrive
+  Ident: md
+  ID: 3
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 12
+Special game type: Sega SG-1000
+  Ident: sg1k
+  ID: 6
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 13
+Special game type: SNK Neo Geo Pocket
+  Ident: ngp
+  ID: 14
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 14
+Special game type: ZX Spectrum
+  Ident: spec
+  ID: 10
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 15
+Special game type: Neogeo CD
+  Ident: neocd
+  ID: 13
+  Content:
+[DEBUG]     Iso (required)
+[DEBUG] Subsystems: 16
+[INFO] [Core] Loading dynamic libretro core from: "X:\Launchbox\Emulators\RetroArch\cores\fbneo_libretro.dll".
+[INFO] [Override] Core-specific overrides found at "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\FinalBurn Neo.cfg".
+[INFO] [Override] Content dir-specific overrides found at "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\\roms.cfg".
+[INFO] [Override] Content dir-specific overrides stacking on top of previous overrides.
+[INFO] [Override] Game-specific overrides found at "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\uopoko.cfg".
+[INFO] [Override] Game-specific overrides stacking on top of previous overrides.
+[INFO] [Config] Loading config: "X:\Launchbox\Emulators\RetroArch\retroarch.cfg".
+[INFO] [Config] Appending override config: "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\FinalBurn Neo.cfg".
+[INFO] [Config] Appending override config: "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\\roms.cfg".
+[INFO] [Config] Appending override config: "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\uopoko.cfg".
+[INFO] [Override] Redirecting save file to "X:\Launchbox\Emulators\RetroArch\saves\FinalBurn Neo\uopoko.srm".
+[INFO] [Override] Redirecting save state to "X:\Launchbox\Emulators\RetroArch\states\FinalBurn Neo\uopoko.state".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[DEBUG] Special game type: CBS ColecoVision
+  Ident: cv
+  ID: 1
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Fairchild ChannelF
+  Ident: chf
+  ID: 15
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: MSX 1
+  Ident: msx
+  ID: 4
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Nec PC-Engine
+  Ident: pce
+  ID: 5
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Nec SuperGrafX
+  Ident: sgx
+  ID: 7
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Nec TurboGrafx-16
+  Ident: tg16
+  ID: 9
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Nintendo Entertainment System
+  Ident: nes
+  ID: 11
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Nintendo Family Disk System
+  Ident: fds
+  ID: 12
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Super Nintendo Entertainment System
+  Ident: snes
+  ID: 16
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Sega GameGear
+  Ident: gg
+  ID: 2
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Sega Master System
+  Ident: sms
+  ID: 8
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Sega Megadrive
+  Ident: md
+  ID: 3
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Sega SG-1000
+  Ident: sg1k
+  ID: 6
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: SNK Neo Geo Pocket
+  Ident: ngp
+  ID: 14
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: ZX Spectrum
+  Ident: spec
+  ID: 10
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Special game type: Neogeo CD
+  Ident: neocd
+  ID: 13
+  Content:
+[DEBUG]     Iso (required)
+[INFO] [Environ] SET_SERIALIZATION_QUIRKS.
+[INFO] [Environ] GET_LOG_INTERFACE.
+[INFO] [Environ] GET_LANGUAGE: "0".
+[DEBUG] [Environ] GET_MESSAGE_INTERFACE_VERSION.
+[INFO] [Environ] SET_AUDIO_BUFFER_STATUS_CALLBACK.
+[INFO] [Content] Content loading skipped. Implementation will load it on its own.
+[INFO] [Environ] GET_SAVE_DIRECTORY: "X:\Launchbox\Emulators\RetroArch\saves\FinalBurn Neo".
+[libretro INFO] Setting save dir to X:\Launchbox\Emulators\RetroArch\saves\FinalBurn Neo
+[INFO] [Environ] GET_SYSTEM_DIRECTORY: "X:\Launchbox\Emulators\RetroArch\system".
+[libretro INFO] Setting system dir to X:\Launchbox\Emulators\RetroArch\system
+[libretro DEBUG] [FBNeo] nSwitchCode 0x00 : P1 Coin
+[libretro DEBUG] [FBNeo] nSwitchCode 0x01 : P1 Start
+[libretro DEBUG] [FBNeo] nSwitchCode 0x02 : P1 Up
+[libretro DEBUG] [FBNeo] nSwitchCode 0x03 : P1 Down
+[libretro DEBUG] [FBNeo] nSwitchCode 0x04 : P1 Left
+[libretro DEBUG] [FBNeo] nSwitchCode 0x05 : P1 Right
+[libretro DEBUG] [FBNeo] nSwitchCode 0x06 : P1 Button 1
+[libretro DEBUG] [FBNeo] nSwitchCode 0x07 : P1 Button 2
+[libretro DEBUG] [FBNeo] nSwitchCode 0x08 : P1 Button 3
+[libretro DEBUG] [FBNeo] nSwitchCode 0x09 : P2 Coin
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0A : P2 Start
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0B : P2 Up
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0C : P2 Down
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0D : P2 Left
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0E : P2 Right
+[libretro DEBUG] [FBNeo] nSwitchCode 0x0F : P2 Button 1
+[libretro DEBUG] [FBNeo] nSwitchCode 0x10 : P2 Button 2
+[libretro DEBUG] [FBNeo] nSwitchCode 0x11 : P2 Button 3
+[INFO] [Environ] SET_CONTROLLER_INFO.
+[DEBUG]    Port 1:
+[DEBUG]       "Classic" (5)
+[DEBUG]       "Modern" (517)
+[DEBUG]       "6-Button Panel" (261)
+[DEBUG]       "Mouse (ball only)" (773)
+[DEBUG]       "Mouse (full)" (514)
+[DEBUG]       "Pointer" (6)
+[DEBUG]       "Touchscreen" (262)
+[DEBUG]       "Lightgun" (4)
+[DEBUG]       "Analog Arcade Gun" (1029)
+[DEBUG]    Port 2:
+[DEBUG]       "Classic" (5)
+[DEBUG]       "Modern" (517)
+[DEBUG]       "6-Button Panel" (261)
+[DEBUG]       "Mouse (ball only)" (773)
+[DEBUG]       "Mouse (full)" (514)
+[DEBUG]       "Pointer" (6)
+[DEBUG]       "Touchscreen" (262)
+[DEBUG]       "Lightgun" (4)
+[DEBUG]       "Analog Arcade Gun" (1029)
+[libretro INFO] Initialize DIP switches.
+[INFO] [Environ] GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ] SET_CORE_OPTIONS_V2.
+[INFO] [Environ] GET_VFS_INTERFACE. Core requested version >= V2, providing V3.
+[DEBUG] [Environ] GET_VARIABLE: fbneo-cpu-speed-adjust = "100%"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-allow-depth-32 = "enabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-vertical-mode = "disabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-force-60hz = "disabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-frameskip-type = "disabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-frameskip-manual-threshold = "33"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-fixed-frameskip = "0"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-diagnostic-input = "Hold Start"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-hiscores = "enabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-allow-patched-romsets = "disabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-samplerate = "48000"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-sample-interpolation = "4-point 3rd order"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-fm-interpolation = "4-point 3rd order"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-lowpass-filter = "disabled"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-analog-speed = "100%"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-socd = "3"
+[DEBUG] [Environ] GET_VARIABLE: fbneo-lightgun-crosshair-emulation = "hide with lightgun device"
+[libretro INFO] [FBNeo] Searching all possible locations for romset uopoko
+[libretro INFO] [FBNeo] Romset found at I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\arc\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\arcade\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\romdata\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\coleco\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\colecovision\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\gamegear\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\megadriv\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\megadrive\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\genesis\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\msx\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\msx1\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\pce\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\pcengine\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\sg1000\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\sgx\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\supergrafx\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\sms\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\mastersystem\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\snes\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\spectrum\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\zxspectrum\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\tg16\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\nes\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\fds\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\ngp\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\chf\uopoko
+[libretro INFO] [FBNeo] No romset found at I:\LaunchBox\Emulators\MAME\roms\channelf\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\arc\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\arcade\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\romdata\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\coleco\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\colecovision\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\gamegear\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\megadriv\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\megadrive\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\genesis\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\msx\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\msx1\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\pce\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\pcengine\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\sg1000\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\sgx\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\supergrafx\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\sms\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\mastersystem\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\snes\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\spectrum\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\zxspectrum\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\tg16\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\nes\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\fds\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\ngp\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\chf\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\fbneo\channelf\uopoko
+[libretro INFO] [FBNeo] No romset found at X:\Launchbox\Emulators\RetroArch\system\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0xb445c9ac and name u26.u26 from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0xa1258482 and name u25.u25 from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0x5d142ad2 and name cave_cv-02_u33.u33 from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0x12fb11bb and name cave_cv-02_u49.u49 from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0xa2d0d755 and name cave_cv-02_u4.u4 from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] Using ROM with known crc 0xf4a24b95 and name eeprom-uopoko.bin from archive I:\LaunchBox\Emulators\MAME\roms\uopoko
+[libretro INFO] [FBNeo] No missing files, proceeding
+[libretro INFO] [FBNeo] Samplerate set to 48000
+[libretro INFO] [FBNeo] Applied dipswitches from core options
+[libretro DEBUG] Cheat cpu-register INIT.
+[libretro DEBUG] CPU-registry: 68k cpu #0 ...
+[libretro INFO] [FBNeo] Initialized driver for uopoko
+[libretro INFO] [FBNeo] Adjusted audio buffer to match driver's refresh rate (57.550000 Hz)
+[libretro INFO] [Cheevos] System RAM set to 000000001b64f0c0, size is 229376
+[INFO] [Environ] SET_ROTATION: "0" (0 deg).
+[INFO] [Environ] SET_PIXEL_FORMAT: RGB565.
+[libretro INFO] [FBNeo] Driver uopoko was successfully started : game's full name is Puzzle Uo Poko (World)
+[INFO] [RCHEEVOS] Using host: https://retroachievements.org
+[INFO] [RCHEEVOS] Unofficial disabled
+[INFO] [RCHEEVOS] Encore mode disabled
+[INFO] [RCHEEVOS] Spectator mode disabled
+[INFO] [RCHEEVOS] Load started, hardcore active
+[INFO] [RCHEEVOS] Attempting to log in trailervert (with token)
+[INFO] [RCHEEVOS] Identifying game: I:\LaunchBox\Emulators\MAME\roms\uopoko.zip
+[INFO] [RCHEEVOS] Found 1 potential consoles for zip file extension
+[INFO] [RCHEEVOS] Trying console 27
+[INFO] [RCHEEVOS] Hashing 6 byte buffer
+[INFO] [RCHEEVOS] Generated hash df6c9cf116bf3709501bbc19829de43c
+[INFO] [SRAM] Skipping SRAM load.
+[INFO] [Core] Version of libretro API: 1, Compiled against API: 1
+[libretro INFO] [FBNeo] Timing set to 57.550000 Hz
+[INFO] [Core] Geometry: 320x240, Aspect: 1.333, FPS: 57.55, Sample rate: 47996.70 Hz.
+[INFO] [Video] Set video size to: fullscreen.
+[INFO] [XInput] Found XInput v1.4.
+[WARN] [DInput] Strong rumble unavailable.
+[WARN] [DInput] Weak rumble unavailable.
+[DEBUG] [Autoconf] Config files scanned: driver dinput, pad name I-PAC 4 (d209/0430), phys , affinity 50
+[INFO] [Autoconf] I-PAC 4 configured in port 2.
+[INFO] [Input] Found joypad driver: "xinput".
+[DEBUG] [Autoconf] Config files scanned: driver xinput, pad name Bluetooth XINPUT compatible input device (045e/02e0), phys , affinity 50
+[INFO] [Autoconf] Bluetooth XINPUT compatible input device configured in port 1.
+[INFO] [D3D11] Device created (Feature Level: 11.0)
+[INFO] [D3D11] Flip model and tear control supported and enabled.
+[INFO] [D3D11] Requesting 1 maximum frame latency, using 1.
+[INFO] [D3D11] Found GPU at index 0: "NVIDIA GeForce GTX 1070".
+[INFO] [D3D11] Found GPU at index 1: "NVIDIA GeForce GTX 1070".
+[INFO] [D3D11] Found GPU at index 2: "NVIDIA GeForce GTX 1070".
+[INFO] [D3D11] Found GPU at index 3: "Microsoft Basic Render Driver".
+[INFO] [D3D11] Using GPU index 0.
+[INFO] [Video] Found display server: "win32".
+[INFO] [Audio] Set audio input rate to: 50040.00 Hz.
+[DEBUG] [MMDevice] Initializing default eRender device...
+[DEBUG] [WASAPI] Requesting shared 16-bit 2-channel client with WAVE_FORMAT_PCM samples at 48000Hz 64ms.
+[DEBUG] [WASAPI] Default device period is 10.0ms.
+[DEBUG] [WASAPI] Minimum device period is 3.0ms.
+[DEBUG] [WASAPI] Shared stream latency is 0.0ms.
+[DEBUG] [WASAPI] Endpoint buffer size is 3072 frames (6144 samples, 12288 bytes, 64.0 ms).
+[INFO] [WASAPI] Client initialized (shared, PCM, 48000Hz, 64.0ms).
+[INFO] [Audio] Started synchronous audio driver.
+[DEBUG] [WASAPI mic] Initialized microphone driver context.
+[INFO] [Microphone] Initialized microphone driver.
+[INFO] [Display] Found display driver: "d3d11".
+[INFO] [Environ] SET_SUBSYSTEM_INFO.
+[DEBUG] Subsystem ID: 0
+Special game type: CBS ColecoVision
+  Ident: cv
+  ID: 1
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 1
+Special game type: Fairchild ChannelF
+  Ident: chf
+  ID: 15
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 2
+Special game type: MSX 1
+  Ident: msx
+  ID: 4
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 3
+Special game type: Nec PC-Engine
+  Ident: pce
+  ID: 5
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 4
+Special game type: Nec SuperGrafX
+  Ident: sgx
+  ID: 7
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 5
+Special game type: Nec TurboGrafx-16
+  Ident: tg16
+  ID: 9
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 6
+Special game type: Nintendo Entertainment System
+  Ident: nes
+  ID: 11
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 7
+Special game type: Nintendo Family Disk System
+  Ident: fds
+  ID: 12
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 8
+Special game type: Super Nintendo Entertainment System
+  Ident: snes
+  ID: 16
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 9
+Special game type: Sega GameGear
+  Ident: gg
+  ID: 2
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 10
+Special game type: Sega Master System
+  Ident: sms
+  ID: 8
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 11
+Special game type: Sega Megadrive
+  Ident: md
+  ID: 3
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 12
+Special game type: Sega SG-1000
+  Ident: sg1k
+  ID: 6
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 13
+Special game type: SNK Neo Geo Pocket
+  Ident: ngp
+  ID: 14
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 14
+Special game type: ZX Spectrum
+  Ident: spec
+  ID: 10
+  Content:
+[DEBUG]     Rom (required)
+[DEBUG] Subsystem ID: 15
+Special game type: Neogeo CD
+  Ident: neocd
+  ID: 13
+  Content:
+[DEBUG]     Iso (required)
+[DEBUG] Subsystems: 16
+[INFO] [MIDI] Output device: "Microsoft GS Wavetable Synth".
+[libretro INFO] [FBNeo] Unknown device type for port 0, forcing "Classic" instead
+[libretro INFO] [FBNeo] Unknown device type for port 1, forcing "Classic" instead
+[INFO] [Playlist] Loading favorites file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_favorites.lpl".
+[INFO] [Playlist] Loading history file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_history.lpl".
+[INFO] [Playlist] Loading history file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_image_history.lpl".
+[INFO] [Playlist] Loading history file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_music_history.lpl".
+[INFO] [Playlist] Loading history file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_video_history.lpl".
+[DEBUG] [Audio] Started audio driver "wasapi" (is_shutdown=false)
+[INFO] [Playlist] Written to file: "X:\Launchbox\Emulators\RetroArch\playlists\builtin\content_history.lpl".
+[DEBUG] [Autoconf] First unconfigured / unreserved player is 1.
+[DEBUG] [Autoconf] Device "I-PAC 4" (d209:430) is not reserved for any player slot.
+[DEBUG] [Autoconf] First unconfigured / unreserved player is 1.
+[DEBUG] [Autoconf] Device "Bluetooth XINPUT compatible input device" (45e:2e0) is not reserved for any player slot.
+[INFO] [RCHEEVOS] trailervert logged in successfully
+[INFO] [RCHEEVOS] Fetching data for hash df6c9cf116bf3709501bbc19829de43c
+[INFO] [Environ] SET_INPUT_DESCRIPTORS.
+[DEBUG]    Port 1:
+[DEBUG]       "D-Pad Up" => "Up"
+[DEBUG]       "D-Pad Down" => "Down"
+[DEBUG]       "D-Pad Left" => "Left"
+[DEBUG]       "D-Pad Right" => "Right"
+[DEBUG]       "B Button (Down)" => "Button 1"
+[DEBUG]       "A Button (Right)" => "Button 2"
+[DEBUG]       "Y Button (Left)" => "Button 3"
+[DEBUG]       "Select Button" => "Coin"
+[DEBUG]       "Start Button" => "Start"
+[DEBUG]       "Left Analog Y- (Up)" => "Up/Down (Fake Left Stick)"
+[DEBUG]       "Left Analog Y+ (Down)" => "Up/Down (Fake Left Stick)"
+[DEBUG]       "Left Analog X- (Left)" => "Left/Right (Fake Left Stick)"
+[DEBUG]       "Left Analog X+ (Right)" => "Left/Right (Fake Left Stick)"
+[DEBUG]    Port 2:
+[DEBUG]       "D-Pad Up" => "Up"
+[DEBUG]       "D-Pad Down" => "Down"
+[DEBUG]       "D-Pad Left" => "Left"
+[DEBUG]       "D-Pad Right" => "Right"
+[DEBUG]       "B Button (Down)" => "Button 1"
+[DEBUG]       "A Button (Right)" => "Button 2"
+[DEBUG]       "Y Button (Left)" => "Button 3"
+[DEBUG]       "Select Button" => "Coin"
+[DEBUG]       "Start Button" => "Start"
+[DEBUG]       "Left Analog Y- (Up)" => "Up/Down (Fake Left Stick)"
+[DEBUG]       "Left Analog Y+ (Down)" => "Up/Down (Fake Left Stick)"
+[DEBUG]       "Left Analog X- (Left)" => "Left/Right (Fake Left Stick)"
+[DEBUG]       "Left Analog X+ (Right)" => "Left/Right (Fake Left Stick)"
+[INFO] [Config] Loading config: "X:\Launchbox\Emulators\RetroArch\retroarch.cfg".
+[INFO] [Override] Configuration overrides unloaded, original configuration restored.
+[INFO] [Config] Saved config to "X:\Launchbox\Emulators\RetroArch\retroarch.cfg".
+[DEBUG] [Audio] Started audio driver "wasapi" (is_shutdown=true)
+[INFO] [Runtime] Content ran for a total of: 00 hours, 03 minutes, 30 seconds.
+[INFO] [Runtime] Saving runtime log file: "X:\Launchbox\Emulators\RetroArch\playlists\logs\FinalBurn Neo\uopoko.lrtl".
+[INFO] [RCHEEVOS] Unloading game 12420
+[INFO] [Core] Unloading game...
+[DEBUG] [Audio] Stopped audio driver "wasapi".
+[INFO] [Core] Unloading core...
+Achievement heloo world
+Achievement hellow wordl!
+Achievement hellow wordl!2
+Achievement hellow wordl!3
+heloo world Achievement
+Achievement hellow world!650
+hellow wordl!3 Achievement hellow wordl!3
+hellow wordl!3 Achievement hellow wordl
+Achievement heloo worlde
+Achievement2
+Achievement3
+Achievement4
+Achievement heloo worlder
+[INFO] [RCHEEVOS] Awarding achievement 458335: A Straight 30 Meter Dive
+[INFO] [RCHEEVOS] Awarding achievement 458335: Super Sled!!!!!!!
+heloo world Achievement yes
+[INFO] [Core] Unloading core...
+Achievement heloo world
+heloo Achievement hellow wordl!
+[INFO] [Core] Unloading core symbols...
+[INFO] [Core] Saved core options file to "X:\Launchbox\Emulators\RetroArch\config\FinalBurn Neo\FinalBurn Neo.opt".
+[DEBUG] [Video] Average monitor Hz: 59.998800 Hz. (2.275 % frame time deviation, based on 2048 last samples).
